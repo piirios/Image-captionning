@@ -1,0 +1,8 @@
+torch
+torchvision
+tqdm
+matplotlib
+click
+spacy
+Pillow
+pycocotools
